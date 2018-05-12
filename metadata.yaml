@@ -25,6 +25,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Henri_Turpin
 description: 'Translation of: Histoire civile et naturelle du royaume de Siam et des
   révolutions qui ont bouleversé cet empire jusqu’en 1770'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44564#History-of-the-Kingdom-of-Siamthe-empire-up-to-A.-D.-1770
 gutenberg_issued: '2014-01-02'
 gutenberg_type: Text
 identifiers:
