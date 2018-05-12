@@ -1,0 +1,42 @@
+_repo: History-of-the-Kingdom-of-Siamthe-empire-up-to-A.-D.-1770_44564
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cartwright, B. O. (Basil Osborn)
+    alias: Cartwright, Basil Osborn
+    birthdate: 1877
+    deathdate: 1928
+    gutenberg_agent_id: '42815'
+    url: http://www.gutenberg.org/2009/agents/42815
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Turpin, F. H. (François Henri)
+    aliases:
+    - Turpin, Francois-Rene
+    - Turpin, François-René
+    - Turpin, François-Henri
+    birthdate: 1709
+    deathdate: 1799
+    gutenberg_agent_id: '42814'
+    url: http://www.gutenberg.org/2009/agents/42814
+    wikipedia: https://en.wikipedia.org/wiki/Fran%C3%A7ois_Henri_Turpin
+description: 'Translation of: Histoire civile et naturelle du royaume de Siam et des
+  révolutions qui ont bouleversé cet empire jusqu’en 1770'
+gutenberg_issued: '2014-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thailand -- Description and travel'
+- !lcsh 'Thailand -- History'
+- !lcc 'DS'
+title: "History of the Kingdom of Siam\r\nand of the revolutions that have caused\
+  \ the overthrow of the empire, up to A. D. 1770"
+url: http://www.gutenberg.org/ebooks/44564
